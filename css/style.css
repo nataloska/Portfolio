@@ -1,0 +1,13 @@
+body{
+    font-family: roboto, sans-serif;
+}
+.intro{
+    text-align: center;
+    margin-top:20px;
+}
+.footer{
+    background-color:grey;
+}
+.somelink img{
+    width: 50px;
+}
