@@ -1,15 +1,19 @@
 body{
     font-family: roboto, sans-serif;
 }
+/* Top */
 .intro{
     text-align: center;
     margin-top:20px;
 }
+.pic{
+    background-image: url(https://i.imgur.com/OmCKW5u.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
 .profile{
     padding-right:0px;
-}
-.navv{
-    padding:0;
 }
 .intro h1{
     font-weight:24px;
@@ -25,6 +29,10 @@ body{
     margin-top:30px;
     text-decoration-line: underline;
     font-family: 'Times New Roman', Times, serif;
+}
+/* Nav */
+.navv{
+    padding:0;
 }
 .navbar{
     background-color: black;
@@ -53,10 +61,21 @@ body{
 
 .nav-link{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
+.nav-link a{
+    font-weight: 30px;
+    font-size: 30px;
+}
+/* Main */
+.experience h2{
+    text-align: center;
+}
+
+/* Footer */
 .footer{
-    background-color:grey;
+    color: white;
+    text-shadow: 1px 1px 2px #4a4a4a;
 }
 .about p{
     margin:0;
@@ -64,10 +83,17 @@ body{
 .persinfo p{
     margin:0;
 }
+.about{
+    background-color:black;
+}
+.persinfo{
+    background-color:black;
+}
 .somelink{
     padding:0;
+    background-color:black;
 }
 .somelink img{
-    width: 60px;
-    margin: 20px;
+    width: 65px;
+    margin: 34px;
 }
