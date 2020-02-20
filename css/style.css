@@ -5,6 +5,9 @@ body{
     text-align: center;
     margin-top:20px;
 }
+.profile {
+    float: right;
+}
 .footer{
     background-color:grey;
 }
