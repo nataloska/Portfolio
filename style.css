@@ -68,10 +68,57 @@ body{
     font-size: 30px;
 }
 /* Main */
-.experience h2{
+.qualifications{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.qualifications h2{
+    text-align: center;
+    padding: 10px;
+}
+.main{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main p{
+    padding: 10px;
+
+}
+.experience1 {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+}
+.experience1 h4{
+    text-decoration-line: underline;
+    font-weight: bold;
     text-align: center;
 }
+.experience1 h5{
+    text-decoration-line: underline;
+}
+.experience2{
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+}
+.experience2 h4{
+    text-decoration-line: underline;
+    font-weight: bold;
+    text-align: center;
+}
+.experience2 h5{
+    text-decoration-line: underline;
+}
 
+form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contactform h1{
+    text-align: center;
+}
+.contactform p{
+    text-align: center;
+}
 /* Footer */
 .footer{
     color: white;
@@ -84,16 +131,20 @@ body{
     margin:0;
 }
 .about{
-    background-color:black;
+    background-color: black;
 }
 .persinfo{
-    background-color:black;
+    background-color: black;
 }
 .somelink{
     padding:0;
-    background-color:black;
+    text-align: center;
+    background-color: black;
 }
 .somelink img{
     width: 65px;
-    margin: 34px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
