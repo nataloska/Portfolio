@@ -80,9 +80,12 @@ body{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.main h2{
+    text-align: center;
+    padding: 10px;
+}
 .main p{
     padding: 10px;
-
 }
 .experience1 {
     border-left: solid 2px black;
