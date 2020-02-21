@@ -17,8 +17,8 @@ The first impression upon visiting the website should be focussed on my portfoli
 The website offers a contact form(not yet functional due to lack of server backend) to get in contact. On the bottom relevant social media & github links are available.
 
 Features to implement
-# Working contact form
-# page&links directly to other projects
+- Working contact form
+- page&links directly to other projects
 
 ## Technology
 
