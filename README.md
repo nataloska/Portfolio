@@ -24,7 +24,7 @@ Features to implement
 
 This project was written in HTML & CSS using Gitpod.
 
-#Technologies Used
+- Technologies Used
 In this project we used some simple HTML5 and CSS3 supported by Bootstrap 4 to build the project, we wrote our code using Gitpod Workspaces and we've backed it up using Git and GitHub.
 
 ## Testing
